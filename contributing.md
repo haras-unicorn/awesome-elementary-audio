@@ -11,6 +11,9 @@ Ensure your pull request adheres to the following guidelines:
 - Make sure that the project you want to add is an Elementary Audio project
 - Add a single line with the link to the project and a short description to [readme](readme.md)
   - See [readme](readme.md) for examples
+- Run `npx awesome-lint` to check everything is ok before opening a PR
+  - Ignore the `remark-lint:awesome-git-repo-age` rule
+  - Ignore the `remark-lint:awesome-github` rule
 - If you want to modify categories open an issue or discussion
 
 ## Updating your PR
