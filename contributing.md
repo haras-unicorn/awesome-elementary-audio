@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure that the project you want to add is an Elementary Audio project
+- Make sure that the project you want to add is an [Elementary Audio](https://www.elementary.audio/) project
 - Add a single line with the link to the project and a short description to [readme](readme.md)
   - See [readme](readme.md) for examples
 - Run `npx awesome-lint` to check everything is ok before opening a PR
