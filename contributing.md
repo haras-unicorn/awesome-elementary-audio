@@ -8,12 +8,10 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
+- Make sure that the project you want to add is an Elementary Audio project
+- Add a single line with the link to the project and a short description to [readme](readme.md)
+  - See [readme](readme.md) for examples
+- If you want to modify categories open an issue or discussion
 
 ## Updating your PR
 
