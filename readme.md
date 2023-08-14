@@ -15,6 +15,7 @@
 ## WebAudio
 
 - [Elementary Grid](https://teetow.github.io/elementary_grid/) - A tonegrid synth made with Elementary Audio and React.
+- [ADSR](https://github.com/satelllte/adsr/) - A simple ADSR envelope synthesizer made with Elementary Audio and Next.js.
 
 ## Audio Plugins
 
